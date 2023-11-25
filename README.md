@@ -5,7 +5,7 @@ here are a list of my projects located in various folders.
 To visit each project, simply click on a folder and there will be the /src and /data folders which stands for source and data respecitvely.
 Here is the full folder path:
 
-
+```
 C:.
 ├───Baltimore Crime Rate
 │   └───src
@@ -17,3 +17,4 @@ C:.
 └───India Nifty Indicies
     ├───data
     └───src
+```
