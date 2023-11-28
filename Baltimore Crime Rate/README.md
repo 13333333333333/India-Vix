@@ -1,6 +1,6 @@
 ### Baltimore Crime Rate Forecast
 
-This data is sourced from [this link](https://data.world/data-society/city-of-baltimore-crime-data).  
+This data is sourced from [this](https://data.world/data-society/city-of-baltimore-crime-data).  
 It uses Holt-Winters forecasting to predict a 1 moth crime rate in the Baltimore State.  
 Key informations:  
 - Crime rate is decreasing in general
